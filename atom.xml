@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mengplus主页</title>
+  
+  
+  <link href="https://meng-plus.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://meng-plus.github.io/"/>
+  <updated>2023-08-27T01:03:25.137Z</updated>
+  <id>https://meng-plus.github.io/</id>
+  
+  <author>
+    <name>mengplus</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://meng-plus.github.io/2023/08/27/u-boot/"/>
+    <id>https://meng-plus.github.io/2023/08/27/u-boot/</id>
+    <published>2023-08-27T01:03:25.137Z</published>
+    <updated>2023-08-27T01:03:25.137Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;u-boot&quot;&gt;&lt;a href=&quot;#u-boot&quot; class=&quot;headerlink&quot; title=&quot;u-boot&quot;&gt;&lt;/a&gt;u-boot&lt;/h1&gt;&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://meng-plus.github.io/2023/08/27/README/"/>
+    <id>https://meng-plus.github.io/2023/08/27/README/</id>
+    <published>2023-08-27T01:02:59.961Z</published>
+    <updated>2023-08-27T01:02:59.961Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;主页&quot;&gt;&lt;a href=&quot;#主页&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://meng-plus.github.io/2023/08/27/hello-world/"/>
+    <id>https://meng-plus.github.io/2023/08/27/hello-world/</id>
+    <published>2023-08-27T00:42:37.713Z</published>
+    <updated>2023-08-27T00:42:37.713Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
