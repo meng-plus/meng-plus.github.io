@@ -5,10 +5,10 @@
     
     <entry>
       <title></title>
-      <link href="/2023/08/27/u-boot/"/>
-      <url>/2023/08/27/u-boot/</url>
+      <link href="/2023/08/31/README/"/>
+      <url>/2023/08/31/README/</url>
       
-        <content type="html"><![CDATA[<h1 id="u-boot"><a href="#u-boot" class="headerlink" title="u-boot"></a>u-boot</h1><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>官方资料 <a href="https://u-boot.readthedocs.io/en/latest/index.html">https://u-boot.readthedocs.io/en/latest/index.html</a></p><p>官方最新仓库 <a href="https://github.com/u-boot/u-boot">https://github.com/u-boot/u-boot</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="主页"><a href="#主页" class="headerlink" title="主页"></a>主页</h1><p>嵌入式开发工程师，喜欢应用新的技术和新的设计思想到单片机平台。</p><p>我的宗旨是</p><ol><li>代码可读性第一，执行效率第二；</li><li>提高代码复用，降低程序员负担；</li><li>高效的设计方案提高整体性能；</li><li>全局最优比局部最优更有价值；</li><li>一次设计终身收益</li></ol><p>所以我的原则是</p><ol><li>架构是项目的开端</li><li>每个模块的设计有法可依</li><li>功能是通用而非专用</li><li>分层是必然的结构</li><li>面向对象是我努力的目标</li><li>不写注释就是高质量代码的表现</li></ol><h4 id="📫-How-to-reach-me"><a href="#📫-How-to-reach-me" class="headerlink" title="📫 How to reach me"></a>📫 How to reach me</h4><ol><li>B站 公开了我分享的学习视频<a href="https://space.bilibili.com/152180949">https://space.bilibili.com/152180949</a></li><li>CSDN 分享了一些文字笔记<a href="https://blog.csdn.net/qq_34901073">https://blog.csdn.net/qq_34901073</a></li><li>gitee分享了我的代码<a href="https://gitee.com/mengplus/">https://gitee.com/mengplus/</a></li><li>github 同样分享了我的代码<a href="https://github.com/meng-plus">https://github.com/meng-plus</a></li><li>自然还有这里啦<a href="https://mengplus.gitbook.io/">https://mengplus.gitbook.io/</a></li><li>QQ交流渠道790012859（51群）； 929996346（32群）；113129301（鸿蒙群）；71263861（C语言/C++/VC/MFC程序设计）;740239588(Qt/C++/Linux)</li><li>淘宝店铺:<a href="https://mengplus.taobao.com/">https://mengplus.taobao.com/</a></li></ol>]]></content>
       
       
       
@@ -18,10 +18,153 @@
     
     <entry>
       <title></title>
-      <link href="/2023/08/27/README/"/>
-      <url>/2023/08/27/README/</url>
+      <link href="/2023/08/31/SUMMARY/"/>
+      <url>/2023/08/31/SUMMARY/</url>
       
-        <content type="html"><![CDATA[<h1 id="主页"><a href="#主页" class="headerlink" title="主页"></a>主页</h1><p>蒙蒙plus作为资料的存档位置，将学习笔记记录下来，一起学习交流</p><ul><li>单片机笔记</li><li>编程笔记</li><li>linux笔记</li></ul><ol><li><a href="linux%E7%AC%94%E8%AE%B0%5Cu-boot%5Cu-boot.md">u-boot</a></li></ol><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><ol><li>B站 公开了我分享的学习视频<a href="https://space.bilibili.com/152180949">https://space.bilibili.com/152180949</a></li><li>CSDN 分享了一些文字笔记<a href="https://blog.csdn.net/qq_34901073">https://blog.csdn.net/qq_34901073</a></li><li>gitee分享了我的代码<a href="https://gitee.com/mengplus/">https://gitee.com/mengplus/</a></li><li>github 同样分享了我的代码<a href="https://github.com/meng-plus">https://github.com/meng-plus</a></li><li>自然还有这里啦<a href="https://meng-plus.github.io/">https://meng-plus.github.io/</a></li><li>QQ交流渠道790012859（51群）； 929996346（32群）；113129301（鸿蒙群）；71263861（C语言/C++/VC/MFC程序设计）;740239588(Qt/C++/Linux)</li><li>淘宝店铺:<a href="https://mengplus.taobao.com/">https://mengplus.taobao.com/</a></li></ol>]]></content>
+        <content type="html"><![CDATA[<h1 id="Table-of-contents"><a href="#Table-of-contents" class="headerlink" title="Table of contents"></a>Table of contents</h1><ul><li><a href="README.md">主页</a><ul><li><a href="https://gitee.com/mengplus/">git首页</a></li><li><a href="https://space.bilibili.com/152180949">B站首页</a></li></ul></li><li><a href="git/readme.md">git笔记</a><ul><li><a href="git/push.md">push</a></li><li><a href="git/flow.md">flow</a></li><li><a href="git/svn.md">svn</a></li><li><a href="git/ewarm.md">EWARM</a></li></ul></li><li><a href="about/README.md">关于我</a></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/about/readme/"/>
+      <url>/2023/08/31/about/readme/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/git/ewarm/"/>
+      <url>/2023/08/31/git/ewarm/</url>
+      
+        <content type="html"><![CDATA[<h1 id="EWARM"><a href="#EWARM" class="headerlink" title="EWARM"></a>EWARM</h1><h2 id="EWARM-1"><a href="#EWARM-1" class="headerlink" title="EWARM"></a>EWARM</h2><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">.</span><br><span class="line">├── HK32F103.ewd</span><br><span class="line">├── HK32F103.ewp</span><br><span class="line">├── Project.eww</span><br><span class="line">├── dlib_lock_glue.c</span><br><span class="line">├── startup_stm32f103xe.s</span><br><span class="line">├── stm32_lock.h</span><br><span class="line">├── stm32f103xe_flash.icf</span><br><span class="line">└── stm32f103xe_sram.icf</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/git/flow/"/>
+      <url>/2023/08/31/git/flow/</url>
+      
+        <content type="html"><![CDATA[<h1 id="flow"><a href="#flow" class="headerlink" title="flow"></a>flow</h1><p>参考资料：</p><ol><li>官方使用文档 <a href="https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E4%BD%9C%E6%B5%81">Git - 分支开发工作流 (git-scm.com)</a></li><li><a href="https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow/">git-flow 的工作流程 | Learn Version Control with Git (git-tower.com)</a></li><li><a href="https://zhuanlan.zhihu.com/p/198066289">图解git flow开发流程 - 知乎 (zhihu.com)</a></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/git/git-flow/"/>
+      <url>/2023/08/31/git/git-flow/</url>
+      
+        <content type="html"><![CDATA[<h1 id="git-flow"><a href="#git-flow" class="headerlink" title="git flow"></a>git flow</h1><p>参考资料：</p><ol><li>官方使用文档 <a href="https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E4%BD%9C%E6%B5%81">Git - 分支开发工作流 (git-scm.com)</a></li><li><a href="https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow/">git-flow 的工作流程 | Learn Version Control with Git (git-tower.com)</a></li><li><a href="https://zhuanlan.zhihu.com/p/198066289">图解git flow开发流程 - 知乎 (zhihu.com)</a></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/git/git-pull/"/>
+      <url>/2023/08/31/git/git-pull/</url>
+      
+        <content type="html"><![CDATA[<h1 id="git-pull"><a href="#git-pull" class="headerlink" title="git pull"></a>git pull</h1><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git pull origin master <span class="comment">#将本地develop分支更新至与master对齐</span></span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/git/git-push/"/>
+      <url>/2023/08/31/git/git-push/</url>
+      
+        <content type="html"><![CDATA[<h1 id="git-push"><a href="#git-push" class="headerlink" title="git push"></a>git push</h1><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><ol><li><p>官方文档<a href="https://git-scm.com/docs/git-push/zh_HANS-CN">Git - git-push Documentation (git-scm.com)</a></p></li><li><p><a href="https://www.runoob.com/git/git-push.html">git push 命令 | 菜鸟教程 (runoob.com)</a></p></li></ol><h2 id="操作演示"><a href="#操作演示" class="headerlink" title="操作演示"></a>操作演示</h2><h3 id="命令格式"><a href="#命令格式" class="headerlink" title="命令格式"></a>命令格式</h3><p>部分命令参数可以省略</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$git</span> &lt;远端名称&gt; &lt;本地分支&gt;:&lt;远程分支&gt;</span><br></pre></td></tr></tbody></table></figure><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 完整的命令格式</span></span><br><span class="line">git push [--all | --branches | --mirror | --tags] [--follow-tags] [--atomic] [-n | --dry-run] [--receive-pack=&lt;git-receive-pack&gt;]</span><br><span class="line">   [--repo=&lt;仓库&gt;] [-f | --force] [-d | --delete] [--prune] [-v | --verbose]</span><br><span class="line">   [-u | --set-upstream] [-o &lt;字符串&gt; | --push-option=&lt;字符串&gt;]</span><br><span class="line">   [--[no-]signed|--signed=(<span class="literal">true</span>|<span class="literal">false</span>|if-asked)]</span><br><span class="line">   [--force-with-lease[=&lt;引用名&gt;[:&lt;expect&gt;]] [--force-if-includes]]</span><br><span class="line">   [--no-verify] [&lt;仓库&gt; [&lt;引用规范&gt;…​]]</span><br></pre></td></tr></tbody></table></figure><h3 id="推送本分支到默认仓库"><a href="#推送本分支到默认仓库" class="headerlink" title="推送本分支到默认仓库"></a>推送本分支到默认仓库</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$git</span> push origin main:main  <span class="comment">#推送main分支到远端origin 的main分支</span></span><br><span class="line"><span class="variable">$git</span> push <span class="comment">#可简写为</span></span><br><span class="line"><span class="variable">$git</span> push -f <span class="comment">#-f 可选参数强制推送，会覆盖远端仓库的分支</span></span><br></pre></td></tr></tbody></table></figure><h3 id="其他示例"><a href="#其他示例" class="headerlink" title="其他示例"></a>其他示例</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git push origin develop:master -f <span class="comment">#把本地的develop分支强制 (-f)推送到远端master。</span></span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/git/push/"/>
+      <url>/2023/08/31/git/push/</url>
+      
+        <content type="html"><![CDATA[<h1 id="push"><a href="#push" class="headerlink" title="push"></a>push</h1><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><ol><li>官方文档<a href="https://git-scm.com/docs/git-push/zh_HANS-CN">Git - git-push Documentation (git-scm.com)</a></li><li><a href="https://www.runoob.com/git/git-push.html">git push 命令 | 菜鸟教程 (runoob.com)</a></li></ol><h2 id="操作演示"><a href="#操作演示" class="headerlink" title="操作演示"></a>操作演示</h2><h3 id="命令格式"><a href="#命令格式" class="headerlink" title="命令格式"></a>命令格式</h3><p>部分命令参数可以省略</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$git</span> &lt;远端名称&gt; &lt;本地分支&gt;:&lt;远程分支&gt;</span><br></pre></td></tr></tbody></table></figure><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 完整的命令格式</span></span><br><span class="line">git push [--all | --branches | --mirror | --tags] [--follow-tags] [--atomic] [-n | --dry-run] [--receive-pack=&lt;git-receive-pack&gt;]</span><br><span class="line">   [--repo=&lt;仓库&gt;] [-f | --force] [-d | --delete] [--prune] [-v | --verbose]</span><br><span class="line">   [-u | --set-upstream] [-o &lt;字符串&gt; | --push-option=&lt;字符串&gt;]</span><br><span class="line">   [--[no-]signed|--signed=(<span class="literal">true</span>|<span class="literal">false</span>|if-asked)]</span><br><span class="line">   [--force-with-lease[=&lt;引用名&gt;[:&lt;expect&gt;]] [--force-if-includes]]</span><br><span class="line">   [--no-verify] [&lt;仓库&gt; [&lt;引用规范&gt;…​]]</span><br></pre></td></tr></tbody></table></figure><h3 id="推送本分支到默认仓库"><a href="#推送本分支到默认仓库" class="headerlink" title="推送本分支到默认仓库"></a>推送本分支到默认仓库</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$git</span> push origin main:main  <span class="comment">#推送main分支到远端origin 的main分支</span></span><br><span class="line"><span class="variable">$git</span> push <span class="comment">#可简写为</span></span><br><span class="line"><span class="variable">$git</span> push -f <span class="comment">#-f 可选参数强制推送，会覆盖远端仓库的分支</span></span><br></pre></td></tr></tbody></table></figure><h3 id="其他示例"><a href="#其他示例" class="headerlink" title="其他示例"></a>其他示例</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git push origin develop:master -f <span class="comment">#把本地的develop分支强制 (-f)推送到远端master。</span></span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/git/readme/"/>
+      <url>/2023/08/31/git/readme/</url>
+      
+        <content type="html"><![CDATA[<h1 id="git使用笔记"><a href="#git使用笔记" class="headerlink" title="git使用笔记"></a>git使用笔记</h1><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><ol><li><p>官方下载：<a href="https://git-scm.com/downloads">Git - Downloads (git-scm.com)</a></p></li><li><p>官方文档：<a href="https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git">Git - 安装 Git (git-scm.com)</a></p></li><li><p>推荐客户端列表<a href="https://git-scm.com/downloads/guis">Git - GUI Clients (git-scm.com)</a></p></li><li><p>第三方的推荐资料<a href="https://www.runoob.com/git/git-tutorial.html">Git 教程 | 菜鸟教程 (runoob.com)</a></p><hr></li></ol><h1 id="下载与安装"><a href="#下载与安装" class="headerlink" title="下载与安装"></a>下载与安装</h1><p>请参阅 参考资料 1.官方下载 安装软件</p><h1 id="功能配置"><a href="#功能配置" class="headerlink" title="功能配置"></a>功能配置</h1><p>为避免不同平台的对文档理解的差异，只通过命令行进行必要的 命令演示。</p><ol start="0"><li><p>前提环境</p></li><li><p>打开命令行 输入 <strong>git</strong> 可以看到 命令介绍，则可证明软件安装正常，有很多可选参数，根据需要自行查阅了解</p><figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">测试命令</span></span><br><span class="line"><span class="meta prompt_">$ </span><span class="language-bash">git</span> </span><br><span class="line">usage: git [-v | --version] [-h | --help] [-C &lt;path&gt;] [-c &lt;name&gt;=&lt;value&gt;]     </span><br><span class="line">           [--exec-path[=&lt;path&gt;]] [--html-path] [--man-path] [--info-path]    </span><br><span class="line">           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]</span><br><span class="line">           [--git-dir=&lt;path&gt;] [--work-tree=&lt;path&gt;] [--namespace=&lt;name&gt;]       </span><br><span class="line">           [--super-prefix=&lt;path&gt;] [--config-env=&lt;name&gt;=&lt;envvar&gt;]</span><br><span class="line">           &lt;command&gt; [&lt;args&gt;]</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure></li></ol><h2 id="配置用户信息"><a href="#配置用户信息" class="headerlink" title="配置用户信息"></a>配置用户信息</h2><p>参考资料<a href="https://git-scm.com/docs/git-config/zh_HANS-CN">Git - git-config Documentation (git-scm.com)</a></p><ol><li><p>配置账户</p><p>配置用户信息(必要) ,可随意填写，非账户密码 可以多次使用此命令重新配置</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git config --global user.name "myname"  #用户名</span><br><span class="line">$ git config --global user.email myemail@outlook.com #邮箱 用户联系方式</span><br></pre></td></tr></tbody></table></figure></li></ol><p>​选项</p><p>​ <strong>–global</strong> </p><p>​将本次配置列为全局配置，如果新仓库中未再次配置，则使用此默认配置,配置项将修改存放在用户目录下的 ~/.gitconfig也可直接打开此文本查看修改</p><ol start="2"><li>查看所有配置</li></ol><p>查看当前的配置情况，根据需要可二次修改</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$　git config --list</span><br></pre></td></tr></tbody></table></figure><h2 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/git/svn/"/>
+      <url>/2023/08/31/git/svn/</url>
+      
+        <content type="html"><![CDATA[<h1 id="svn"><a href="#svn" class="headerlink" title="svn"></a>svn</h1><p>在win平台git-SVN默认是安装的，而linux平台需要手动安装</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt install  git-svn</span><br></pre></td></tr></tbody></table></figure><h3 id="拉取已经存在的SVN仓库"><a href="#拉取已经存在的SVN仓库" class="headerlink" title="拉取已经存在的SVN仓库"></a>拉取已经存在的SVN仓库</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git svn <span class="built_in">clone</span> -r5791:HEAD [svn_url] [new_name]</span><br></pre></td></tr></tbody></table></figure><p>r5791为最新的版本号，查看版本号可直接通过浏览器访问svn地址r5791为最新的版本号，查看版本号可直接通过浏览器访问svn地址</p><p>new_name可以给导入的项目取个新的名称，也可以不写，默认和svn名称一致</p><h3 id="本地提交到SVN"><a href="#本地提交到SVN" class="headerlink" title="本地提交到SVN"></a>本地提交到SVN</h3><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git svn dcommit</span><br></pre></td></tr></tbody></table></figure><h3 id="同步远端到本地"><a href="#同步远端到本地" class="headerlink" title="同步远端到本地"></a>同步远端到本地</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git svn fetch</span><br></pre></td></tr></tbody></table></figure><p>GIT-SVN 可以使用git轻松的访问SVN仓库，方便git对SVN仓库的兼容，如果你是GIT用户又不得不使用SVN管理工程那么这将是不错的选择。</p><h3 id="GIT对比优势"><a href="#GIT对比优势" class="headerlink" title="GIT对比优势"></a>GIT对比优势</h3><table><thead><tr><th></th><th>GIT</th><th>SVN</th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><hr><h3 id="下方为未整理资料"><a href="#下方为未整理资料" class="headerlink" title="下方为未整理资料"></a>下方为未整理资料</h3><p>如：<strong>git svn clone -r5791:HEAD [svn_url] [new_name]</strong> ,r5791为最新的版本号，查看版本号可直接通过浏览器访问svn地址，点击右上角的查看历史即可看到版本号信息， 如下图所示</p><p>new_name可以给导入的项目取个新的名称，也可以不写，默认和svn名称一致，输入命令完成后如下图所示：</p><p>接下来进入到导入的prop文件夹下查看文件，可以看到文件已经从svn仓库成功导入到了本地仓库</p><p>来自 <a href="https://www.cnblogs.com/despacito/p/10239286.html">https://www.cnblogs.com/despacito/p/10239286.html</a></p><p>git svn dcommit 将本地提交到SVN</p><p>git log –graph –oneline 显示日志</p><p><strong>git svn clone -r5791:HEAD [svn_url] [new_name]</strong></p><p>r5791为最新的版本号</p><p><strong>git commit -am ‘commit_info’</strong> 来把工作区的修改提交到本地仓库，然后通过<strong>git svn dcommit</strong> 命令将本地仓库的修改同步到远程svn仓库</p><p><strong>git-SVN****安装</strong></p><p>在win平台git-SVN默认是安装的，而linux平台需要手动安装</p><p>sudo apt install git-svn</p><p><strong>拉取已经存在的SVN仓库</strong></p><p>git svn clone -r5791:HEAD [svn_url] [new_name]</p><p>r5791为最新的版本号，查看版本号可直接通过浏览器访问svn地址r5791为最新的版本号，查看版本号可直接通过浏览器访问svn地址</p><p>new_name可以给导入的项目取个新的名称，也可以不写，默认和svn名称一致</p><p><strong>本地提交到****SVN</strong></p><p>git svn dcommit</p><p><strong>同步远端到本地</strong></p><p>git svn fetch</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/31/linux%E7%AC%94%E8%AE%B0/docker/docker/"/>
+      <url>/2023/08/31/linux%E7%AC%94%E8%AE%B0/docker/docker/</url>
+      
+        <content type="html"><![CDATA[<h1 id="docker"><a href="#docker" class="headerlink" title="docker"></a>docker</h1><h2 id="资料来源"><a href="#资料来源" class="headerlink" title="资料来源"></a>资料来源</h2><ol><li><p><a href="https://zhuanlan.zhihu.com/p/187505981">什么是Docker？看这一篇干货文章就够了！ - 知乎 (zhihu.com)</a></p></li><li><p>官方文档 <a href="https://docs.docker.com/reference/">Reference documentation | Docker Docs</a></p></li><li><p>image地址 <a href="https://hub.docker.com/">https://hub.docker.com</a></p></li><li><p><a href="https://www.runoob.com/docker/docker-tutorial.html">Docker 教程 | 菜鸟教程 (runoob.com)</a></p></li></ol><p>docker对比虚拟机可能更好的理解：</p><ul><li><p>虚拟机就是一个运行在另一个操作系统里的<strong>完整的操作系统</strong>，所以虚拟机必须是完整的硬盘空间，CPU核心的完全占用，RAM的预先分配，无论这个操作系统的资源用还是不用，都是被他占用的，其他软件或者系统无法再次利用。</p></li><li><p>docker也是独立运行的，但是它只把差异部分单独保存，底层对系统资源的调用公用当前系统资源，用多少取多少，因此不太单子多开是否ram不够用的问题</p></li></ul><hr><h2 id="本项目说明"><a href="#本项目说明" class="headerlink" title="本项目说明"></a>本项目说明</h2><h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p>官方资料<a href="https://u-boot.readthedocs.io/en/latest/index.html">https://u-boot.readthedocs.io/en/latest/index.html</a></p><p>官方最新仓库<a href="https://github.com/u-boot/u-boot">https://github.com/u-boot/u-boot</a></p><ol><li>参照<strong>官方资料</strong>准备的开发环境</li><li>优先支持F1C200S环境（我正在学习）</li><li>本镜像新建了管理员账户 <strong>uboot 23456</strong></li></ol><h3 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h3><ol><li><p>本地安装docker</p><figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">ubuntu 环境下</span> </span><br><span class="line">sudo apt update &amp;&amp; sudo apt install docker.io</span><br></pre></td></tr></tbody></table></figure></li><li><p>获取本镜像,默认最新</p><figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker pull mengplus/uboot:latest</span><br></pre></td></tr></tbody></table></figure></li><li><p>列表查看本地安装结果</p><figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">sudo docker images</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">可选参数</span> </span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">-a 所有</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">-q 只显示镜像<span class="built_in">id</span></span></span><br></pre></td></tr></tbody></table></figure></li><li><p>启动本镜像</p><figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash">启动容器，进入命令交互</span></span><br><span class="line">sudo docker run -it mengplus/uboot</span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">启动容器，并挂载主机开发环境到容器</span></span><br><span class="line">sudo docker run -it -v $(pwd):/home/uboot/workspace mengplus/uboot</span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">启动容器，并挂载主机开发环境到容器并启动联网功能</span></span><br><span class="line">sudo docker run -it --privileged -v $(pwd):/home/uboot/workspace mengplus/uboot</span><br></pre></td></tr></tbody></table></figure></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/08/27/u-boot/"/>
+      <url>/2023/08/27/u-boot/</url>
+      
+        <content type="html"><![CDATA[<h1 id="u-boot"><a href="#u-boot" class="headerlink" title="u-boot"></a>u-boot</h1><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>官方资料 <a href="https://u-boot.readthedocs.io/en/latest/index.html">https://u-boot.readthedocs.io/en/latest/index.html</a></p><p>官方最新仓库 <a href="https://github.com/u-boot/u-boot">https://github.com/u-boot/u-boot</a></p>]]></content>
       
       
       
